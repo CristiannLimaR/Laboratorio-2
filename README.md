@@ -1,2 +1,2 @@
 # Laboratorio-2
-git config --global user.email johndoe@example.com
+Tomando la idea básica de una agenda telefónica, desarrollar una agenda web similar. 
